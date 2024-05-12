@@ -1,0 +1,54 @@
+[{
+  "_id": "1234",
+  "nombre": "Mario Rojas",
+  "nacionalidad": "Colombiano",
+  "rol": "Juez"
+},
+{
+  "_id": "7898",
+  "nombre": "Mario Rojas",
+  "nacionalidad": "Colombiano",
+  "rol": "Juez"
+},
+{
+  "_id": "69796",
+  "nombre": "Piedad Cabrera",
+  "nacionalidad": "Argentina",
+  "rol": "Juez"
+},
+{
+  "_id": "9087376",
+  "nombre": "Jorge Carulla",
+  "nacionalidad": "Perú",
+  "rol": "Juez"
+},
+{
+  "_id": "894534",
+  "nombre": "Armando Lino",
+  "nacionalidad": "Venezolano",
+  "rol": "Juez"
+},
+{
+  "_id": "23459",
+  "nombre": "Manuela Nuñez",
+  "nacionalidad": "Colombiano",
+  "rol": "Arbitro"
+},
+{
+  "_id": "23967",
+  "nombre": "Daniel Quintero",
+  "nacionalidad": "Ecuador",
+  "rol": "Arbitro"
+},
+{
+  "_id": "12789",
+  "nombre": "David Ortiz",
+  "nacionalidad": "Colombiano",
+  "rol": "Arbitro"
+},
+{
+  "_id": "57823",
+  "nombre": "Monica Valderrama",
+  "nacionalidad": "Colombiano",
+  "rol": "Arbitro"
+}]

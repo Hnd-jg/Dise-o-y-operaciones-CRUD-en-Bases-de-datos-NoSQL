@@ -1,0 +1,48 @@
+[{
+  "_id": "12346553",
+  "nombre_apellido": "Maria Cepeda",
+  "edad": "26",
+  "categoría": "Segunda"
+},
+{
+  "_id": "54345345",
+  "edad": "29",
+  "categoría": "Segunda",
+  "nombre_apellido": "Olga Marin"
+},
+{
+  "_id": "9777451",
+  "nombre_apellido": "Manuela Caceres",
+  "edad": "24",
+  "categoría": "Segunda"
+},
+{
+  "_id": "10036774",
+  "edad": "32",
+  "categoría": "Segunda",
+  "nombre_apellido": "Patricia Dominguez"
+},
+{
+  "_id": "5660006",
+  "nombre_apellido": "Mariana Cuevas",
+  "edad": "31",
+  "categoría": "Segunda"
+},
+{
+  "_id": "2178999",
+  "edad": "29",
+  "categoría": "Segunda",
+  "nombre_apellido": "Angelica Losada"
+},
+{
+  "_id": "34444146",
+  "nombre_apellido": "Angela Vera",
+  "edad": "26",
+  "categoría": "Segunda"
+},
+{
+  "_id": "3666380",
+  "edad": "26",
+  "categoría": "Segunda",
+  "nombre_apellido": "Liliana Peralta"
+}]

@@ -1,0 +1,35 @@
+[{
+  "_id": "ganadores1",
+  "ronda": "Primera ronda",
+  "ganador": "Maria Cepeda, Patricia Dominguez, Manuela Caceres, Olga Marin"
+},
+{
+  "_id": "ganadores2",
+  "ronda": "Cuartos de final",
+  "ganador": "Maria Cepeda, Mariana Cuevas, Angelica Losada, Angela Vera"
+},
+{
+  "_id": "ganador3",
+  "ronda": "Semifinales",
+  "ganador": "Maria Cepeda, Angelica Losada"
+},
+{
+  "_id": "ganadores 1",
+  "ronda": "Primera ronda",
+  "ganador": "Maria Cepeda, Patricia Dominguez, Manuela Caceres, Olga Marin"
+},
+{
+  "_id": "ganadores 2",
+  "ronda": "Cuartos de final",
+  "ganador": "Maria Cepeda, Mariana Cuevas, Angelica Losada, Angela Vera"
+},
+{
+  "_id": "ganadores 3",
+  "ronda": "Semifinales",
+  "ganador": "Maria Cepeda, Angelica Losada"
+},
+{
+  "_id": "ganador 4",
+  "ronda": "Final",
+  "ganador": "Maria Cepeda"
+}]
