@@ -3,30 +3,30 @@
     "$oid": "663efc67d643deb26a395d45"
   },
   "Cancha": "1",
-  "ronda": "Primera ronda",
-  "Fecha": "18/05/2024"
+  "ronda": "Octavos",
+  "Fecha": "18/05/2024, 19/05/2024"
 },
 {
   "_id": {
     "$oid": "663efc67d643deb26a395d46"
   },
   "Cancha": "2",
-  "ronda": "Segunda ronda",
-  "Fecha": "19/05/2024"
+  "ronda": "Cuartos",
+  "Fecha": "20/05/2024, 21/05/2024"
 },
 {
   "_id": {
     "$oid": "663efc67d643deb26a395d47"
   },
   "Cancha": "3",
-  "ronda": "Tercera ronda",
-  "Fecha": "20/05/2024"
+  "ronda": "Semifinales",
+  "Fecha": "22/05/2024"
 },
 {
   "_id": {
     "$oid": "663efc67d643deb26a395d48"
   },
   "Cancha": "4",
-  "ronda": "Cuarta ronda",
-  "Fecha": "21/05/2024"
+  "ronda": "Final",
+  "Fecha": "23/05/2024"
 }]
